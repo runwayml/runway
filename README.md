@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/machine%20learning-for%20all-green.svg" alt="ml4all">
 </p>
 
+**_This project is currently in development. Request beta access at hello@runwayml.com_** 
+
 ## Introduction
 
 [Runway](https://runwayml.com/) is desktop application that allows to easily run state of the art machine learning models and use them in creative and interactive ways. You can connect this models to other applications via OSC, Sockets or HTTP networks.
