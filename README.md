@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/machine%20learning-for%20all-green.svg" alt="ml4all">
 </p>
 
-**_This project is currently in development. Request beta access at hello@runwayml.com_** 
+**This alpha version is no longer mantained. Sign up for the beta release at [runwayml.com](https://runwayml.com/)**
 
 ## Introduction
 
